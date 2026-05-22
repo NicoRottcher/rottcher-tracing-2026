@@ -9,3 +9,4 @@ After acceptance, the repo will include:
 - Visualization routines for the figures of the manuscript and supplemental information
 
 Raw data from WAXS 2D-detector are accessible in the ESRF data repository: [10.15151/ESRF-DC-2434918683](https://doi.esrf.fr/10.15151/ESRF-DC-2011729981)
+Other raw and processed data will be available in the Zenodo data repository: [10.5281/zenodo.20341102](https://doi.org/10.5281/zenodo.20341102)
